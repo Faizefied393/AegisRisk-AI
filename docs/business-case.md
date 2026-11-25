@@ -1,0 +1,2 @@
+# Business case
+Security teams need to prioritize remediation when resources are limited. Combine scanner evidence with known exploitation, EPSS, severity and owner-confirmed asset context. The analyst validates patches with vendor guidance and change management before deployment. Measure prioritization time, enrichment coverage, incomplete assessments and time to remediation; do not claim savings without measurements.
